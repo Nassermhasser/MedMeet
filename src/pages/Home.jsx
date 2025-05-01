@@ -6,10 +6,12 @@ import Banner from '../components/Banner'
 
 const Home = () => {
   return (
-    <div>
+    <div className='bg-[#f9fafe] text-[#262626]'>
       <Header />
-      <SpecialityMenu />
-      <TopDoctors />
+      <div className='px-4 sm:px-8 md:px-12 lg:px-20'>
+        <SpecialityMenu />
+        <TopDoctors />
+      </div>
       <Banner />
     </div>
   )
