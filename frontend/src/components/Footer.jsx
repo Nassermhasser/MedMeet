@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>MedMeet is your trusted platform for seamless doctor appointments and healthcare access. Since its inception, MedMeet has been dedicated to connecting patients with top-rated medical professionals, offering an easy-to-use system that has revolutionized the way people schedule appointments with doctors.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>MedMeet is your trusted Moroccan platform for booking doctor appointments with ease and confidence. From major cities to remote regions, MedMeet connects patients with top-rated medical professionals across the country. Our simple and modern system makes it easy for everyone to schedule medical consultations, anytime and from anywhere in the country.</p>
         </div>
 
         <div>
@@ -24,8 +24,8 @@ const Footer = () => {
         <div>
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>+66-666-666-6666</li>
-            <li>npv@gmail.com</li>
+            <li>+05 35 00 00 00</li>
+            <li>medmeet@medmeet.com</li>
           </ul>
         </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright © 2024 NPV-H. All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright © 2025 MedMeet Team @ AUI. All Rights Reserved.</p>
       </div>
 
     </div>
